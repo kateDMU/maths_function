@@ -35,7 +35,12 @@ float max (float x, float y)
 		return y;
 }
 
+<<<<<<< HEAD
 //Test line for merge
+=======
+//add mod function
+
+>>>>>>> testing
 
 int main()
 {
