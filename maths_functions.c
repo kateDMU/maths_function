@@ -35,6 +35,8 @@ float max (float x, float y)
 		return y;
 }
 
+//add mod function
+
 
 int main()
 {
