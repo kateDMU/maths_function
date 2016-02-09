@@ -1,3 +1,4 @@
+This is the line causing issues in the master branch
 #include <stdio.h>
 
 float add (float x, float y)
